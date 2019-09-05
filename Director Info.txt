@@ -1,0 +1,16 @@
+Adobe Director Tutorial Part 1: https://www.youtube.com/watch?v=2J_zYdl3SCY
+Adobe Director Tutorial Part 2: https://www.youtube.com/watch?v=B7VkwJreeCo
+Lingo Behaviors: https://diginoodles.com/Adobe_Director_Lingo_Behaviors
+Make Loop: http://www.deansdirectortutorials.com/scripting/basic_markers.htm
+Change Audio Volume: https://forums.adobe.com/thread/179175
+How To Publish .exe Files: https://forums.adobe.com/thread/223025
+
+HOW TO PLAY .dcr (.htm) Files: https://gaming.stackexchange.com/questions/339173/how-can-i-play-dcr-shockwave-games
+PS: Install 'sw_lic_full_installer.exe' file and open .htm file with Internet Explorer.
+
+In order to open the project follow these steps: (or just open the .dir file in Director and give it the correct file paths when it asks for them)
+1. Create a user account with name 'Megas'.
+2. Copy 'nfsmw' folder from 'Shockwave + HTML + EXE\dswMedia' to the Desktop.
+3. Copy/Cut file 'NFS Most Wanted Movie.dir' to the Desktop. 
+4. Follow instructions above^ to get things up and running.
+5. Have fun :)
